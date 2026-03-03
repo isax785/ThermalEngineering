@@ -1,6 +1,6 @@
 # Theory MOC
 
-Map of contents of theory section.
+Map of contents of **theory** section.
 
 
 ---
