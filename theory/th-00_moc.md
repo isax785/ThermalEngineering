@@ -2,8 +2,6 @@
 
 Map of contents for **theory** section.
 
-- []
-
 
 ---
 

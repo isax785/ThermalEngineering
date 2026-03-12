@@ -2,7 +2,7 @@
 
 Map of contents of **exercises** section.
 
-- [Conduction](./Conduction/ex%20-%20conduction.md)
+- [Conduction](./Conduction/ex-conduction.md)
 
 ---
 

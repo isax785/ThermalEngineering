@@ -4,8 +4,8 @@ Working progress
 
 [website](https://isax785.github.io/ThermalEngineering/)
 
-- [Theory](./theory/th%20-%2000%20moc.md)
-- [Exercises](./exercises/ex%20-%2000%20moc.md)
+- [Theory](./theory/th-00_moc.md)
+- [Exercises](./exercises/ex-00_moc.md)
 
 
 ---
