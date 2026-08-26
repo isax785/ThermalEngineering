@@ -11,7 +11,7 @@
 jupyter nbconvert --to markdown --no-input filename.ipynb 
 jupyter nbconvert --to markdown filename.ipynb --TemplateExporter.exclude_input=True
 # With code
-jupyter nbconvert --to markdown --no-input filename.ipynb 
+jupyter nbconvert --to markdown filename.ipynb 
 ```
 
 **Test**
