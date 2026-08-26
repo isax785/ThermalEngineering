@@ -4,7 +4,9 @@ Map of contents for **theory** section.
 
 LaTeX formula test:
 
-$A = B \cdot x$
+{% raw %}
+$$a^2 + b^2 = c^2$$
+{% endraw %}
 
 ---
 
