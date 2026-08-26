@@ -13,5 +13,6 @@ Working progress
 ## Tasks
 
 **Automations**
+- [ ] disclaimer
 - [ ] `ipynb` converter for rendering: `ipython nbconvert your_notebook.ipynb --to markdown`
 - [ ] automatic indexing (TBD)
