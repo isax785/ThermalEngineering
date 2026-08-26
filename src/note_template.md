@@ -1,0 +1,28 @@
+# Title
+
+
+[Home](../readme.md)
+
+
+<footer class="site-footer">
+  <p>
+    <strong>Disclaimer:</strong> The calculations, engineering values, tables, and other information on this website are provided for general informational purposes only. Although reasonable efforts are made to ensure accuracy, no warranty is given regarding completeness, correctness, or suitability for any specific application. Users are responsible for independently verifying all information before use. By using this website, you acknowledge that any reliance on its content is at your own risk, and the website owner accepts no liability for any loss, damage, or consequences arising from its use.
+  </p>
+</footer>
+
+<style>
+.site-footer {
+    margin-top: 3rem;
+    padding: 1rem 1.5rem;
+    background-color: #f5f5f5;
+    border-top: 1px solid #dcdcdc;
+    font-size: 0.85rem;
+    line-height: 1.5;
+    color: #555;
+    text-align: center;
+}
+
+.site-footer strong {
+    color: #333;
+}
+</style>
